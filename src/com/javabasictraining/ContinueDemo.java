@@ -4,9 +4,15 @@ public class ContinueDemo {
 
     public static void main(String[] args) {
 
-        for (int i = 1; i <= 100000; i++) {
-            if (i == 2500){
-                continue;
+        for (int i = 1; i <= 5; i++) {
+
+
+
+            if(i==2){
+
+
+
+
             }
             System.out.println(i);
         }

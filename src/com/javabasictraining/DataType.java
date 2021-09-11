@@ -10,17 +10,17 @@ public class DataType {
         //2. Reference DataType(Object)
 
         //1. PrimitveDataType
-            //1. byte
-            //2. short
-            //3. int *
-            //4. long
-            //5. double *
-            //6. float
-            //7. char
-            //8. boolean *
+        //1. byte
+        //2. short
+        //3. int *
+        //4. long
+        //5. double *
+        //6. float
+        //7. char
+        //8. boolean *
 
         // //2. Reference DataType(Object)
-            //String *
+        //String *
 
         byte abc = 10;          // -128 to +127
         short bcd = 11;         // -32768 to +32767
