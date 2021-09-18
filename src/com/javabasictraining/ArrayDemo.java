@@ -6,6 +6,7 @@ public class ArrayDemo {
     public static void main(String[] args) {
 
         int hello[] = new int[10];
+        hello[0]=
         hello[7]= 20;
         System.out.println(hello[7]);
 

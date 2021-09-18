@@ -3,12 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ContinueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ContinueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ContinueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/ContinueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Human.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Human.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Students.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Students.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Human.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,19 +16,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/Human.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -67,11 +54,13 @@
         <option value="$PROJECT_DIR$/src/com/javabasictraining/Box.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/ObjectDemo.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/App1.java" />
-        <option value="$PROJECT_DIR$/src/com/javabasictraining/Human.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/Main.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/Information.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/App2.java" />
         <option value="$PROJECT_DIR$/src/com/javabasictraining/Students.java" />
+        <option value="$PROJECT_DIR$/src/com/javabasictraining/MobileApp.java" />
+        <option value="$PROJECT_DIR$/src/com/javabasictraining/Human.java" />
+        <option value="$PROJECT_DIR$/src/com/javabasictraining/Clothing.java" />
       </list>
     </option>
   </component>
@@ -82,11 +71,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="3832" />
-    <option name="y" value="-8" />
-    <option name="width" value="976" />
-    <option name="height" value="1056" />
+    <option name="x" value="2687" />
+    <option name="y" value="106" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
+  <component name="ProjectId" id="1yJPNYGtyZfgXqEpsT9ujpRiS9c" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
@@ -125,41 +115,23 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/KAFKA" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.App2">
-    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.App" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ReturnStatement">
     <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javabasictraining.App2" />
       <module name="JavaTraining" />
@@ -173,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContinueDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ContinueDemo" />
+    <configuration name="Clothing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.Clothing" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -186,8 +158,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.Main" />
+    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ForEach" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -199,8 +171,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ObjectDemo" />
+    <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.MethodDemo" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReturnStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ReturnStatement" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
@@ -213,22 +198,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.App" />
-      <item itemvalue="Application.ContinueDemo" />
-      <item itemvalue="Application.ObjectDemo" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.App2" />
+      <item itemvalue="Application.Clothing" />
+      <item itemvalue="Application.MethodDemo" />
+      <item itemvalue="Application.ForEach" />
+      <item itemvalue="Application.ReturnStatement" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnStatement" />
+        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.MethodDemo" />
+        <item itemvalue="Application.Clothing" />
         <item itemvalue="Application.App2" />
-        <item itemvalue="Application.ObjectDemo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.App" />
-        <item itemvalue="Application.ContinueDemo" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -243,10 +229,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="3832" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944258" visible="true" weight="0.32336956" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49944258" visible="true" weight="0.40010917" />
       <window_info id="Structure" order="1" sideWeight="0.5005574" side_tool="true" weight="0.35338345" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -255,13 +240,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989259" weight="0.40811455" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989259" weight="0.40794224" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50107414" side_tool="true" weight="0.40914157" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50107414" side_tool="true" weight="0.40811455" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.3293556" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -423,13 +408,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/ObjectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -451,10 +429,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/MobileApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="4" column="44" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/Clothing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/Human.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="495">
+          <caret line="15" column="27" lean-forward="true" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
         </state>
       </provider>
     </entry>
