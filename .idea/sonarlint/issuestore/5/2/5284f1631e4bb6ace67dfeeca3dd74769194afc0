@@ -1,0 +1,10 @@
+
+K
+java:S1854"5Remove this useless assignment to local variable "d".(ü¢²æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™Ù‘üÿÿÿÿÿ
+N	java:S106	"9Replace this use of System.out or System.err by a logger.(•§³¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ûŽÐ¹ùÿÿÿÿ
+>
+java:S2440"(Remove this instantiation of "DataType".(ü¢²æ
+<
+java:S1481"&Remove this unused "d" local variable.(ü¢²æ

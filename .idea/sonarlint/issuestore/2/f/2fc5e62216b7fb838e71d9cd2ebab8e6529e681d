@@ -1,0 +1,16 @@
+
+Z
+java:S1854
+"DRemove this useless assignment to local variable "facebookUserName".(Ñ¡µ«
+E
+java:S1197"*Move the array designators [] to the type.(ºâ¯úÿÿÿÿ
+@
+java:S1197	"*Move the array designators [] to the type.(õÈ¼
+@
+java:S1197
+"*Move the array designators [] to the type.(Ñ¡µ«
+K
+java:S1481
+"5Remove this unused "facebookUserName" local variable.(Ñ¡µ«
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ¨¤šøÿÿÿÿ

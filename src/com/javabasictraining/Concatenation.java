@@ -12,7 +12,7 @@ public class Concatenation {
         String fullName = firstName + " " + lastName + "," + age + "," + ssn;
         System.out.println(fullName); //printlinenumber
         //System.out.print(fullName);  //print
-        //System.out.println(fullName);
+
 
         //()
 

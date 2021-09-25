@@ -1,0 +1,35 @@
+
+R
+java:S1854!"7Remove this useless assignment to local variable "kji".(Õ¤·ÿÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "hki".(·Ì¨è
+R
+java:S1854"7Remove this useless assignment to local variable "ghk".(ÏÉÇÜúÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "fgh".(Ö÷…õşÿÿÿÿ
+R
+java:S1854"7Remove this useless assignment to local variable "dcf".(¼¢¹¼ıÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "cde".(—³»¢
+M
+java:S1854"7Remove this useless assignment to local variable "bcd".(‚æú
+M
+java:S1854"7Remove this useless assignment to local variable "abc".(ÿ¶¥
+>
+java:S1481"(Remove this unused "abc" local variable.(ÿ¶¥
+>
+java:S1481"(Remove this unused "bcd" local variable.(‚æú
+>
+java:S1481"(Remove this unused "cde" local variable.(—³»¢
+C
+java:S1481"(Remove this unused "dcf" local variable.(¼¢¹¼ıÿÿÿÿ
+C
+java:S1481"(Remove this unused "fgh" local variable.(Ö÷…õşÿÿÿÿ
+C
+java:S1481"(Remove this unused "ghk" local variable.(ÏÉÇÜúÿÿÿÿ
+>
+java:S1481"(Remove this unused "hki" local variable.(·Ì¨è
+C
+java:S1481 "(Remove this unused "hkj" local variable.(„›Ë–ÿÿÿÿÿ
+C
+java:S1481!"(Remove this unused "kji" local variable.(Õ¤·ÿÿÿÿÿ
