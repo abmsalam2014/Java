@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/App1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ApplicationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Box.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Toyota.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/App1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/ApplicationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javabasictraining/InheritanceTypes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
