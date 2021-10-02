@@ -3,12 +3,14 @@
   <component name="ChangeListManager">
     <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/MobileApp.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ReturnStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ReturnStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Concatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/MobileApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/App1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ApplicationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/ApplicationTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Box.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Box.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Toyota.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Toyota.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/javabasictraining/Toyota.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -124,20 +127,30 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.Calculator">
-    <configuration name="ApplicationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ApplicationTest" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\projects\JavaStudents\src\Inheritance\TypesInheritance\hierarchialinheritance" />
+      <recent name="C:\projects\JavaStudents\src\Inheritance\TypesInheritance\multipleinheritance" />
+      <recent name="C:\projects\JavaStudents\src\Inheritance\TypesInheritance\multilevelinheritance" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\projects\JavaStudents\src\Inheritance\TypesInheritance\multilevelinheritance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HybridInheritanceTest">
+    <configuration name="HierarchialinheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.hierarchialinheritance.HierarchialinheritanceTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="PATTERN" value="Inheritance.TypesInheritance.hierarchialinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.Calculator" />
+    <configuration name="HybridInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.hybridInheritance.HybridInheritanceTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="PATTERN" value="Inheritance.TypesInheritance.hybridInheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,12 +171,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ForEach" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ForEach" />
+    <configuration name="MultilevelInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.multilevelinheritance.MultilevelInheritanceTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="PATTERN" value="Inheritance.TypesInheritance.multilevelinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -171,12 +184,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.ReturnStatement" />
+    <configuration name="MultipleInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.multipleinheritance.MultipleInheritanceTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="PATTERN" value="Inheritance.TypesInheritance.multipleinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javabasictraining.Test" />
+    <configuration name="SingleInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.singleinheritance.SingleInheritanceTest" />
       <module name="JavaTraining" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javabasictraining.*" />
+          <option name="PATTERN" value="Inheritance.TypesInheritance.singleinheritance.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -198,19 +211,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ForEach" />
-      <item itemvalue="Application.ReturnStatement" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ApplicationTest" />
-      <item itemvalue="Application.Calculator" />
+      <item itemvalue="Application.HybridInheritanceTest" />
+      <item itemvalue="Application.SingleInheritanceTest" />
+      <item itemvalue="Application.MultilevelInheritanceTest" />
+      <item itemvalue="Application.MultipleInheritanceTest" />
+      <item itemvalue="Application.HierarchialinheritanceTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calculator" />
-        <item itemvalue="Application.ApplicationTest" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.ReturnStatement" />
-        <item itemvalue="Application.ForEach" />
+        <item itemvalue="Application.HybridInheritanceTest" />
+        <item itemvalue="Application.HierarchialinheritanceTest" />
+        <item itemvalue="Application.MultipleInheritanceTest" />
+        <item itemvalue="Application.MultilevelInheritanceTest" />
+        <item itemvalue="Application.SingleInheritanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +299,18 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/abc.java" />

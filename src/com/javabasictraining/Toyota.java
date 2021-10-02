@@ -12,4 +12,7 @@ public class Toyota extends Vehicle {
         System.out.println("Toyota accelator is ok");
 
     }
+    public void dashboard(){
+        System.out.println("Toyota had a music dashboard");
+    }
 }

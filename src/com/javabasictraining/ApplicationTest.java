@@ -8,6 +8,7 @@ public class ApplicationTest {
         toyota.accelator();
         toyota.tailLight();
         toyota.brake();
+        toyota.dashboard();
 
 
         BMW bmw = new BMW();
