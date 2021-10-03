@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="Merge branch 'main' of https://github.com/mehedidevops/JavaTrainingNew">
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/App2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ArrayDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Box.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Clothing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Concatenation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ContinueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ContinueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/DataType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Doctor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Engineer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ForEach.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/IfElse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Information.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Mehedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Mehedi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/MethodDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ObjectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ObjectDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Operators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/RealExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/RealExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ReturnDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReturnDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/ReturnStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/ReturnStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/SignIn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/SignUpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Students.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/TestingInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/TestingInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasictraining/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic/WhileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Doctor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basic/Mehedi.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
