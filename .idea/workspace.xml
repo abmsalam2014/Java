@@ -1,8 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/javabasictraining/InheritanceTypes.java" afterDir="false" />
+    <list default="true" id="fb01addc-4c9d-4e08-9b74-4b4309abce77" name="Default Changelist" comment="Merge branch 'main' of https://github.com/mehedidevops/JavaTrainingNew">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaTraining/com/javabasictraining/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/HierarchialinheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/HierarchialinheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/Human_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/Human_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/Human_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/Human_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/Human_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/Human_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/Human_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/Human_D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hierarchialinheritance/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hierarchialinheritance/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/Airplane_A.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/CabinCrew_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hybridInheritance/CabinCrew_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/Emirates_D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hybridInheritance/Emirates_D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/HybridInheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hybridInheritance/HybridInheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/Pilot_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hybridInheritance/Pilot_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/hybridInheritance/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/hybridInheritance/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multilevelinheritance/Human_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multilevelinheritance/Human_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multilevelinheritance/Mehedi_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multilevelinheritance/Mehedi_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multilevelinheritance/MultilevelInheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multilevelinheritance/MultilevelInheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multilevelinheritance/Tapan_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multilevelinheritance/Tapan_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multilevelinheritance/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multilevelinheritance/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multipleinheritance/CabinCrew_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multipleinheritance/CabinCrew_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multipleinheritance/Emirates_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multipleinheritance/Emirates_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multipleinheritance/MultipleInheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multipleinheritance/MultipleInheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multipleinheritance/Pilot_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multipleinheritance/Pilot_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/multipleinheritance/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/multipleinheritance/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/singleinheritance/Human_A.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/singleinheritance/Human_A.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/singleinheritance/Mehedi_B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/singleinheritance/Mehedi_B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/singleinheritance/SingleInheritanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/singleinheritance/SingleInheritanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Inheritance/TypesInheritance/singleinheritance/img.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/inheritance/singleinheritance/img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/App2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/App2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/AppTestInheritance.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ApplicationTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/BMW.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/BMW.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Box.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Box.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Clothing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Clothing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Concatenation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Concatenation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ContinueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ContinueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/DataType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/DataType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Doctor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Doctor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Engineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Engineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ForEach.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ForLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Humans.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Humans.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Humans2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Humans2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/IfElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Information.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Information.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/InheritanceTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/InheritanceTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Mehedi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Mehedi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/MethodDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/MethodDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/NewbornCovidVaccine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/NewbornCovidVaccine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Nurse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Nurse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ObjectDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ObjectDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Operators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Operators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/RealExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/RealExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ReturnDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ReturnDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/ReturnStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/ReturnStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/SignIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/SignIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/SignUpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/SignUpPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/SoftwareEngineer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/SoftwareEngineer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Surgeon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Surgeon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/TestingInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/TestingInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Toyota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Toyota.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/javabasictraining/WhileDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javabasictraining/WhileDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/encapsulation/EncapsulationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/encapsulation/EncapsulationTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +209,20 @@
       <recent name="C:\projects\JavaStudents\src\Inheritance\TypesInheritance\multilevelinheritance" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HybridInheritanceTest">
+  <component name="RunManager" selected="Application.EncapsulationTest">
+    <configuration name="EncapsulationTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.encapsulation.EncapsulationTest" />
+      <module name="JavaTraining" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.encapsulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="HierarchialinheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.hierarchialinheritance.HierarchialinheritanceTest" />
       <module name="JavaTraining" />
@@ -189,33 +275,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleInheritanceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Inheritance.TypesInheritance.singleinheritance.SingleInheritanceTest" />
-      <module name="JavaTraining" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Inheritance.TypesInheritance.singleinheritance.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.HybridInheritanceTest" />
-      <item itemvalue="Application.SingleInheritanceTest" />
       <item itemvalue="Application.MultilevelInheritanceTest" />
       <item itemvalue="Application.MultipleInheritanceTest" />
       <item itemvalue="Application.HierarchialinheritanceTest" />
+      <item itemvalue="Application.EncapsulationTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EncapsulationTest" />
         <item itemvalue="Application.HybridInheritanceTest" />
         <item itemvalue="Application.HierarchialinheritanceTest" />
         <item itemvalue="Application.MultipleInheritanceTest" />
         <item itemvalue="Application.MultilevelInheritanceTest" />
-        <item itemvalue="Application.SingleInheritanceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -231,6 +304,14 @@
       <option name="presentableId" value="Default" />
       <updated>1629550604089</updated>
     </task>
+    <task id="LOCAL-00001" summary="Merge branch 'main' of https://github.com/mehedidevops/JavaTrainingNew">
+      <created>1633186882748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1633186882748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -303,6 +384,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Merge branch 'main' of https://github.com/mehedidevops/JavaTrainingNew" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/mehedidevops/JavaTrainingNew" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/javabasictraining/abc.java" />
