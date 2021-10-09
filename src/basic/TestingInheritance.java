@@ -16,10 +16,10 @@ public class TestingInheritance {
 //        nurse.religion();
 //        nurse.averageSkills();
 
-        Engineer engineer = new Engineer();
-        engineer.religion();
-        engineer.eye();
-        engineer.itKnowledge();
+//        Engineer engineer = new Engineer();
+//        engineer.religion();
+//        engineer.eye();
+//        engineer.itKnowledge();
 
 
 
